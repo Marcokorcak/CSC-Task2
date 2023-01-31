@@ -17,11 +17,11 @@
 Fully functioning error state that occurs when a user tries to add or multiply and there is no value in either of the inputs
 
 ## ScreenShots
-<img src="https://user-images.githubusercontent.com/77298953/215660536-1e172095-9e43-4e84-b500-7b19a6608062.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/77298953/215660536-1e172095-9e43-4e84-b500-7b19a6608062.png" width=60% height=60%>
 
 The image above shows the result when doing addition
 
-<src="https://user-images.githubusercontent.com/77298953/215660619-1cfbf3ec-efa4-4c9a-851c-f977e5c4aed5.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/77298953/215660619-1cfbf3ec-efa4-4c9a-851c-f977e5c4aed5.png" width=60% height=60%>
 
 The image above shows the result when doing mutiplication
 
