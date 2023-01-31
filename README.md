@@ -2,7 +2,7 @@
 
 ## Table of contents  
 * [Task Description](#Task-description)
-* [ScreenShots](#ScreenShots)
+* [Screenshots](#Screenshots)
 * [Extra Credit](#Extra-Credit)
 
 
@@ -16,7 +16,7 @@
  * Bonus acceptance criteria:
 Fully functioning error state that occurs when a user tries to add or multiply and there is no value in either of the inputs
 
-## ScreenShots
+## Screenshots
 <img src="https://user-images.githubusercontent.com/77298953/215660536-1e172095-9e43-4e84-b500-7b19a6608062.png" width=60% height=60%>
 
 The image above shows the result when doing addition
