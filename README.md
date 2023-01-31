@@ -36,7 +36,7 @@ The image above shows that a alert is thrown when only one of the input feilds h
 
 <img src="https://user-images.githubusercontent.com/77298953/215661061-92d59e62-d0ba-442d-bc80-846775e58a0d.png" width=60% height=60%>
 
-The image above shows that a alert is thrown when none of the input feilds has a value
+The image above shows that a alert is thrown when none of the input feilds have a value
 
 
 
